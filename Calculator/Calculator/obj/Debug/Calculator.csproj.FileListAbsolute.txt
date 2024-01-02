@@ -1,6 +1,0 @@
-C:\Users\suayan family\Documents\SharpDevelop Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
-C:\Users\suayan family\Documents\SharpDevelop Projects\Calculator\Calculator\bin\Debug\Calculator.exe
-C:\Users\suayan family\Documents\SharpDevelop Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
-C:\Users\suayan family\Documents\SharpDevelop Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
-C:\Users\suayan family\Documents\SharpDevelop Projects\Calculator\Calculator\obj\Debug\Calculator.exe
-C:\Users\suayan family\Documents\SharpDevelop Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
